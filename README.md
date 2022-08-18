@@ -16,21 +16,21 @@ Not much, unfortunately, as most of my repositories are private. In any case, if
 
 ## Modelling / programing related
 
-R language / R studio 
+- R language / R studio 
 
-Machine learning models: xgboost, random forests, etc 
+- Machine learning models: xgboost, random forests, etc 
 
-Statistical survival models 
+- Statistical survival models 
 
-Data uncertainty
+- Data uncertainty
 
-Monte Carlo simulation 
+- Monte Carlo simulation 
 
 ## Water and sanitation related 
 
-Strategic asset management 
+- Strategic asset management 
 
-Lifetime prediction of drinking water pipes 
+- Lifetime prediction of drinking water pipes 
 
-Long-term investment plans in drinking water infrastructure 
+- Long-term investment plans in drinking water infrastructure 
 
