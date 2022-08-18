@@ -12,5 +12,20 @@ I am an engineer and a researcher who really likes data - does not have to be Bi
 
 Not much, unfortunately, as most of my repositories are private. In any case, if you're interested in any of my work, please send me an email: info at andrearsenio dot com 
 
-# Keywords: 
-Mathematical modelling, data uncertainty, monte carlo simulation, R language, systems thinking, stakeholder involvement, integrated water resources managament, strategic asset management, lifetime prediction, urban, peri-urbanm water, sanitation.
+# What do I work with?
+R language / R studio 
+
+Machine learning models: xgboost, random forests, etc 
+
+Statistical survival models 
+
+Data uncertainty
+
+Monte Carlo simulation 
+
+Strategic asset management 
+
+Lifetime prediction of drinking water pipes 
+
+Long-term investment plans in drinking water infrastructure 
+
