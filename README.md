@@ -1,17 +1,18 @@
-# Welcome to my personal webpage!
+# Welcome to my Github!
 
-Yo, yo, yo, Sam the Kid
-Daqui fala o Snake OG
-A representar o Linhó
-onde a cana é pesada
-e a enfermaria está aberta 24 horas por dia 
+# Who am I?
+My name is André, I was born and raised in Portugal, I lived and worked 9+ years in the Netherlands and 4 years in Mozambique. I am currently based in Lisboa. I have a dog.
 
-# Welcome to my personal webpage!
+# What do I do?
 
-Who am I?
+I am an engineer and a researcher who really likes data - does not have to be Big -, beautiful plots and mathematical models - does not have to be AI. 
 
-I am a researcher and I really like data, beautiful plots and mathematical models. I lived and worked 9+ years in the Netherlands and 4 years in Mozambique. I am currently based in Lisboa and here you will find all about my work in water & sanitation. 
 
-Keywords
+and here you will find all about my work in water & sanitation. 
 
-Mathematical modelling, data uncertainty, monte carlo simulation, R language, systems thinking, stakeholder involvement, integrated water resources managament, asset management, lifetime prediction, urban, peri-urbanm water, sanitation.
+# What can you find on this webpage?
+
+Not much, I must say. Most of my repositories are private but if you're interested in any of my work, please send me an email: info at andrearsenio dot com 
+
+# Keywords: 
+Mathematical modelling, data uncertainty, monte carlo simulation, R language, systems thinking, stakeholder involvement, integrated water resources managament, strategic asset management, lifetime prediction, urban, peri-urbanm water, sanitation.
