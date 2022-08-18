@@ -13,6 +13,9 @@ I am an engineer and a researcher who really likes data - does not have to be Bi
 Not much, unfortunately, as most of my repositories are private. In any case, if you're interested in any of my work, please send me an email: info at andrearsenio dot com 
 
 # What do I work with?
+
+## Modelling / programing related
+
 R language / R studio 
 
 Machine learning models: xgboost, random forests, etc 
@@ -22,6 +25,8 @@ Statistical survival models
 Data uncertainty
 
 Monte Carlo simulation 
+
+## Water and sanitation related 
 
 Strategic asset management 
 
