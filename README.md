@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my personal webpage!
 
-<!--
-**andrearsenio/andrearsenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yo, yo, yo, Sam the Kid
+Daqui fala o Snake OG
+A representar o Linhó
+onde a cana é pesada
+e a enfermaria está aberta 24 horas por dia 
 
-Here are some ideas to get you started:
+# Welcome to my personal webpage!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Who am I?
+
+I am a researcher and I really like data, beautiful plots and mathematical models. I lived and worked 9+ years in the Netherlands and 4 years in Mozambique. I am currently based in Lisboa and here you will find all about my work in water & sanitation. 
+
+Keywords
+
+Mathematical modelling, data uncertainty, monte carlo simulation, R language, systems thinking, stakeholder involvement, integrated water resources managament, asset management, lifetime prediction, urban, peri-urbanm water, sanitation.
