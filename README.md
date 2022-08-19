@@ -8,7 +8,7 @@ I am an engineer and a researcher who really likes data - does not have to be bi
 
 I currently work at [AGS Water Solutions](https://www.ags.pt/) where I do extensive work on strategic asset management, particularly in developing lifetime prediction models and (long-term) investment plans for drinking water infrastructure. 
 
-# What do I work with?
+# Which tools do I use?
 
 I started coding on Matlab but ever since I found [R language](https://www.r-project.org/) and [R Studio](https://www.rstudio.com/) I never looked back. The packages that I use the most include:
 
@@ -17,6 +17,8 @@ I started coding on Matlab but ever since I found [R language](https://www.r-pro
 - Plotting: [ggplot2](https://ggplot2.tidyverse.org/). Here I should say that ggplot is the best and most advanced data visualization suite that I have ever had the pleasure of using 
 - Maps: [R spatial](https://r-spatial.github.io/sf/)
 - Mathematical modelling: [survival](https://cran.r-project.org/package=survival), [xgboost](https://xgboost.readthedocs.io/en/stable/), [survival xgboost](https://rdrr.io/github/IyarLin/survXgboost/), [random survival forests](https://www.randomforestsrc.org/)
+
+I also use [QGIS](https://www.qgis.org/en/site/) quite a bit and eventually I will have to learn Python. 
 
 # Want to get in touch?
 
