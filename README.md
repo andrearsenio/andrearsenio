@@ -18,8 +18,8 @@ I started coding on Matlab but ever since I found [R language](https://www.r-pro
 - Maps: [R spatial](https://r-spatial.github.io/sf/)
 - Mathematical modelling: [survival](https://cran.r-project.org/package=survival), [xgboost](https://xgboost.readthedocs.io/en/stable/), [survival xgboost](https://rdrr.io/github/IyarLin/survXgboost/), [random survival forests](https://www.randomforestsrc.org/)
 
-I also use [QGIS](https://www.qgis.org/en/site/) quite a bit and eventually I will have to learn Python. 
+I also use [QGIS](https://www.qgis.org/en/site/) quite a bit and eventually I will have to learn Python. $ \latex $
 
 # Want to get in touch?
 
-If you're interested in any of my work, please send me an email: info at andrearsenio dot com
+If you're interested in any of my work, please email me: info at andrearsenio dot com
