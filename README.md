@@ -19,7 +19,3 @@ I started coding on Matlab but ever since I found [R language](https://www.r-pro
 - Mathematical modelling: [survival](https://cran.r-project.org/package=survival), [xgboost](https://xgboost.readthedocs.io/en/stable/), [survival xgboost](https://rdrr.io/github/IyarLin/survXgboost/), [random survival forests](https://www.randomforestsrc.org/)
 
 I also use [QGIS](https://www.qgis.org/en/site/) quite a bit, I still use [LaTeX](https://www.latex-project.org/) every now and then, I coded my [personal website](https://andrearsenio.com/) in HTML/CSS and will eventually have to learn Python. 
-
-# Want to get in touch?
-
-If you're interested in any of my work, please email me: info at andrearsenio dot com
